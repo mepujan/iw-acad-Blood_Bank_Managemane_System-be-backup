@@ -25,7 +25,7 @@ In Case of accidents and emergencies there is a heavy requirement of the  blood.
 
 
 **Contributors**
-1. Sachin Maharjan (maharjan.sachin.sachin@gmail.com, sachinmaharjan.acd.edu.np)
+1. Sachin Maharjan (maharjan.sachin.sachin@gmail.com, sachinmaharjan@acd.edu.np)
 2. Pujan Gautam (mepujan10@gmail.com)
 3. Madan Champagain (chapagainmadan7@gmail.com)
 4. Niru Duwal (duwalniru0@gmail.com)
