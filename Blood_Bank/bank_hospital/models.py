@@ -47,7 +47,7 @@ class Hospital(models.Model):
 
 
 class HospitalSocialMediaUrl(models.Model):
-    blood_bank = models.OneToOneField(Hospital, on_delete=models.CASCADE)
+    hospital = models.OneToOneField(Hospital, on_delete=models.CASCADE)
     facebook_url = models.URLField(null=True, unique=True)
     instagram_url = models.URLField(null=True, unique=True)
     youtube_url = models.URLField(null=True, unique=True)
