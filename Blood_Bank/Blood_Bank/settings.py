@@ -38,7 +38,9 @@ INSTALLED_APPS = [
     'blood',
     'donors_seekers',
     'bank_hospital',
-    'ckeditor'
+    'ckeditor',
+    'rest_framework',
+
 ]
 
 MIDDLEWARE = [
