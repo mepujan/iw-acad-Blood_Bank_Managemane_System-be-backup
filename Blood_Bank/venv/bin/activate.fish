@@ -29,7 +29,7 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/media/pujan/92B2701DB270084D/documents/IW_Training/Blood_Bank/venv"
+set -gx VIRTUAL_ENV "/media/pujan/local/Blood_Bank/Blood_Bank/venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

@@ -1,4 +1,4 @@
-#!/media/pujan/92B2701DB270084D/documents/IW_Training/Blood_Bank/venv/bin/python
+#!/media/pujan/local/Blood_Bank/Blood_Bank/venv/bin/python
 # When the django-admin.py deprecation ends, remove this script.
 import warnings
 

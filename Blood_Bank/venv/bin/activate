@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/media/pujan/92B2701DB270084D/documents/IW_Training/Blood_Bank/venv"
+VIRTUAL_ENV="/media/pujan/local/Blood_Bank/Blood_Bank/venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

@@ -77,7 +77,7 @@ WSGI_APPLICATION = 'Blood_Bank.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR/'blood_bank',
+        'NAME': BASE_DIR/'database_blood',
     }
 }
 
